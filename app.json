@@ -1,0 +1,12 @@
+{
+  "name": "testTaskChart",
+  "displayName": "testTaskChart",
+  "expo": {
+    "name": "testTaskChart",
+    "slug": "testTaskChart",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
